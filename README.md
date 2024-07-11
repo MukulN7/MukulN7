@@ -13,7 +13,7 @@ Soft Skills: Leadership, Project Management
 ## 🌐 Find Me
 Instagram: mukkku.l
 LinkedIn: www.linkedin.com/in/mukulnapa
-##💬 Let's Connect!
+## 💬 Let's Connect!
 Feel free to reach out to me on Instagram or connect with me on LinkedIn.
 <!---
 MukulN7/MukulN7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
